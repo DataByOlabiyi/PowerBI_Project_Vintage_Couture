@@ -12,6 +12,11 @@ Despite its impressive growth, Vintage Couture has a problem with:
 
 This analysis examines sales data for opportunities to improve these key areas. By examining performance across regions, demographics, and sales channels, this report lays the bedrock for evidence-based decision-making.
 
+## Tools Used
+
+- **Power BI**: For visualization and analysis.
+- **Data Cleaning and Transformation**: To organize datasets.
+
 ## Overview of Data
 The analysis is based on four interconnected datasets:
 
@@ -30,9 +35,9 @@ The analysis is based on four interconnected datasets:
 ### Customer Information:
 - Provides demographic details, such as gender and age, linked via customer IDs.
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View.webp)
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View2.webp)
 
 ### Data Cleaning and Transformation:
 - **Age Groups**: Added to Customer Information to categorize customers into:
@@ -43,7 +48,7 @@ The analysis is based on four interconnected datasets:
 - **Table Linkages**: Relationships between tables established by shared identifiers, such as Customer ID and Location ID.
 - **Data Validation**: Verification of the accuracy and completeness of all tables.
 
-![The Age Group in the Customer table](assets/1_top_paying_roles.png)
+![The Age Group in the Customer table](assets/Model%20View3.webp)
 
 ## Data Analysis
 
@@ -54,7 +59,7 @@ The analysis is based on four interconnected datasets:
 - **Regional Performance**: The South-South region spearheaded with ₦5.6 million in revenue.
 - **Sales Channel Performance**: Online sales outperformed other channels with ₦10 million in sales.
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View4.webp)
 
 ## Detailed Insights
 
@@ -78,7 +83,7 @@ This suggests a leading dominance in female customers, presenting an opportunity
 ### Revenue by Month:
 - The revenue is highest in March (₦1.70 million) and continuously decreases until October (₦1.40 million). These seasonal trends help in targeting specific months for campaign design to increase revenue.
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View5.webp)
 
 ### Revenue by State:
 - **Top-performing states**:
@@ -88,7 +93,7 @@ This suggests a leading dominance in female customers, presenting an opportunity
 
 These states present opportunities for expansion and focused marketing efforts.
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View6.webp)
 
 ### Revenue by Region:
 - **South-South**: ₦5.6 million
@@ -98,7 +103,7 @@ These states present opportunities for expansion and focused marketing efforts.
 
 The North-Central region is the poorest performing and thus needs strategic intervention to improve performance.
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View7.webp)
 
 ### Revenue by Channel:
 - **Online Sales**: ₦10 million
@@ -107,9 +112,9 @@ The North-Central region is the poorest performing and thus needs strategic inte
 
 The high contribution of online sales indicates that more resources should be invested in e-commerce and digital marketing.
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View8.webp)
 
-![Model View](assets/1_top_paying_roles.png)
+![Model View](assets/Model%20View9.webp)
 
 ## Recommendations for Business Improvement
 
@@ -135,4 +140,3 @@ The high contribution of online sales indicates that more resources should be in
 ## Conclusion
 By applying these insights and executing focused strategies, Vintage Couture will be able to optimize its operations, improve customer engagement, and realize continued growth in the vintage fashion market. The company’s emphasis on data-informed decision-making will prove to be a strong guiding force in the modern retail environment. As Vintage Couture continues to evolve, the opportunity exists not only to thrive but to redefine the vintage fashion experience for an increasingly varied and expanding audience.
 
-**NB**: My first project in Power BI.
